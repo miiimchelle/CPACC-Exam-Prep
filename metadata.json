@@ -1,0 +1,7 @@
+{
+  "name": "CPACC Mastery Hub",
+  "description": "An interactive study platform for the IAAP CPACC certification, featuring practice exams, core competency tracking, and AI-powered weak area identification designed for neurodivergent learners.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
